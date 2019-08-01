@@ -1,0 +1,33 @@
+.ant-card img{
+    width: 100%
+}
+
+
+.listItem {
+    margin-right: 5px;
+    margin-bottom: 5px;
+    background-color: #ccc;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.listEntry {
+    padding: 0;
+    display: block;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+.listEntry{
+    padding: 0;
+    display: block;
+    background: none;
+    border: none;
+    width: 300px;
+    cursor: pointer;
+}
+.listEntryImage {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+  
