@@ -14,10 +14,6 @@ class Index extends React.Component {
     return { isServer }
   }
 
-  componentDidMount() {
-    const { giphyData } = this.props
-    console.log('giphyData', giphyData);
-  }
 
   renderGiphy() {
     const { giphyData } = this.props;
